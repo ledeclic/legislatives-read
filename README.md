@@ -6,3 +6,7 @@ Il utilise pour source les fichiers XML du Gouvernement.
 Le script `script.js` n'a pas été utilisé finalement, c'est le script `script-fe.js` se basant sur les données "France entière" qui a été utilisé car non corrompues.
 
 Ce script est livré tel quel, par mesure de transparence avec notre audience.
+
+## Installation
+
+Après avoir cloné le projet, vous pouvez installer les `node_modules` requis par ces scripts avec `yarn` ou `npm i`.
